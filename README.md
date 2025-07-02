@@ -46,7 +46,7 @@ CheckSmart is a cheque processing system built to extract key fields from Indian
 
 Due to restrictions from the bank, we are **unable to share cheque image data** publicly.
 
-However, we have shared the **trained model** — the link can be found in the [`model_link.txt`](./model.txt) file in this repository.
+However, we have shared the **trained model** — the link can be found in the [`model_link.txt`](https://github.com/shivanshu2109/CheckSmart/blob/main/model_link.txt) file in this repository.
 
 We are actively working on improving this model and will continue to update the shared link as we develop better versions tailored to various fields.
 
